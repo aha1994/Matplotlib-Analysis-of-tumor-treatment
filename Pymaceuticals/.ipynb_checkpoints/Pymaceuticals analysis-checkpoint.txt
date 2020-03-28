@@ -1,0 +1,19 @@
+Matplotlib Homework
+
+Aaron Adams 10/5/2019
+
+Analysis:
+
+From the Tumor Volume over time chart, we see that only two of the drugs (Capomulin and Ramicane) resulted in a
+decrease in the tumor volume. All other treatments resulted in an increase in tumor volume. There is overlap in
+the errorbars for Capomulin and Ramicane, so one was not significantly better at reducing tumor volume during this
+timeframe. 
+
+From the Metastatic Sites over time chart, we see that every treatment group had an increase in the number of sites.
+Again, Capomulin and Ramicane treatment resulted in the mice with the lowest number of metastatic sites, along with 
+Stelasyn when accounting for the errorbars. 
+
+From the Percent Survival over time chart, we see that once again, Capomulin and Ramicane were the two treatments 
+that had the highest survival rate. Both of these drugs ended with a survival rate over 80% while every other treatment
+was below 60%. This is reinforced by the bar chart for change in tumor volume over time, where Capomulin and
+Ramicane are the only two treatments with a decrease (green) in tumor volume.
